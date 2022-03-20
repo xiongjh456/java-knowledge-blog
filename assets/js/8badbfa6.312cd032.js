@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[321],{6538:function(e){e.exports=JSON.parse('{"allTagsPath":"/java-knowledge-blog/blog/tags","slug":"/java-knowledge-blog/blog/tags/facebook","name":"facebook","count":1,"permalink":"/java-knowledge-blog/blog/tags/facebook"}')}}]);
