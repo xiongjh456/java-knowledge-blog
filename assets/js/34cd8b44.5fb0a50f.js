@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_knowledge_blog=self.webpackChunkjava_knowledge_blog||[]).push([[7081],{3241:function(a){a.exports=JSON.parse('{"allTagsPath":"/java-knowledge-blog/blog/tags","slug":"/java-knowledge-blog/blog/tags/hola","name":"hola","count":1,"permalink":"/java-knowledge-blog/blog/tags/hola"}')}}]);
